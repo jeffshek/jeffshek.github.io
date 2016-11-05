@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Words.
+title: Setting up SSL with Heroku, Gandi and Cloudflare
 ---
-I had a bit of trouble setting up Heroku, Gandi and Cloudflare to play nicely with SSL / DNS Forwarding. Hopefully, this comes in handy for someone who ends up struggling with the similar issues. This allows for SSL certification without having to deal with DNS Zones (a lot more difficult than it's worth)
+I had a bit of trouble setting up Heroku, Gandi and Cloudflare to play nicely with SSL / DNS Forwarding. Hopefully, this comes in handy for someone who ends up with similar issues. This configuration allows for SSL certification without having to deal with DNS Zones (a lot more trouble than it's worth)
 
 ### Gandi (Provides an SSL for free)
 
